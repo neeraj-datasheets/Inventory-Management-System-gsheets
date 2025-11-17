@@ -24,6 +24,8 @@ SUMIF() / SUMIFS()
 
 TEXT() + Formula combinations
 
+Google Sheet Link: https://docs.google.com/spreadsheets/d/1EXaEFJIm_Hc5i5k8dT2k46UVdMf02QssCLSz3-f4QZo/edit?usp=sharing // you can access the system by opening this link
+
 Files Included
 
 ✔️ Transaction Sheet
